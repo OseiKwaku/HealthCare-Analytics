@@ -1,5 +1,5 @@
 ### Overview
-This project analyzes healthcare data for day cases, inpatients, and outpatients to derive insights into hospital performance, speciality groups.. The goal is to identify trends, improve patient care, and optimize resource allocation.
+This project analyzes healthcare data for day cases, inpatients, and outpatients to derive insights into hospital performance, speciality groups.. The goal is to track current status of patient wait list, identify trends, improve patient care, and optimize resource allocation.
 
 ## Key Questions Asked
 1. What are the trends in patient volumes for day cases, inpatients, and outpatients?
