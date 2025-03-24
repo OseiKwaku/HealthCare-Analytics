@@ -23,3 +23,8 @@ This project analyzes healthcare data for day cases, inpatients, and outpatients
 - Sunday, February 21, 2021 recorded the highest day case and inpatient cases/ patients with 3303 & 2021 respectively.
 - People between the 16 - 64 age group has the longest wait time of 18+ months whith 117,000 patients in the latest month, with Oral Surgery as the top speciality with highest average/median wait list.
 - Total patients in the dataset sum up to 24.64M from 31st January, 2018 to 31st March, 2021.
+
+### Recommendations
+- The Health centre should proiritze reducing the wait time for critical specialities like heart (0.26M) and brain (0.04M)
+- Allocate more resources (eg. funding, personel) to specialities with high wait list.
+- Reduce wait times for patients aged 65+, who are experiencing the longest delays.
